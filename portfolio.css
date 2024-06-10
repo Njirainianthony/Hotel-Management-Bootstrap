@@ -1,0 +1,24 @@
+body{
+    background-image: url("assets/portfolio/backimgportfolio.jpg");
+}
+img{
+    width:80%;
+    height: 450px;
+    border-radius: 20px;
+}
+li{
+    color: white;
+}
+/* Facebook */
+.fa-instagram {
+  background: #3B5998;
+  color: white;
+    margin-right: 20px;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+
+}
